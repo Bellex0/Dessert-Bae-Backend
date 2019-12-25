@@ -20,7 +20,7 @@ Review.create(content: "So addicting! I ate a whole box in 1 sitting!", name: "S
 d4 = Dessert.create(name: "Raindrop Droptop Cake", image:"https://i.pinimg.com/originals/37/fe/65/37fe655b703c5d14b4d019a10572e545.jpg", calories: 190, price: "$8")
 Review.create(content: "The most unique thing I've ever seen!", name: "Anna E.", location: "Chicago, IL", dessert: d4)
 
-d5 = Dessert.create(name: "Frose All Day", image:"https://scontent-frx5-1.cdninstagram.com/vp/8f8203c9e137e799d849d11a3bd3d006/5DC8FF9F/t51.2885-15/e35/67539207_350104585915506_5753542842557893683_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&se=7&ig_cache_key=MjA5MjM4NDM5MTY3NzY3NjQ4Nw%3D%3D.2", calories: 300, price: "$12")
+d5 = Dessert.create(name: "Frose All Day", image:"https://i2.wp.com/www.society19.com/wp-content/uploads/2018/07/tipsytwist3.jpg?resize=564%2C659&ssl=1", calories: 300, price: "$12")
 Review.create(content: "Two of my favorite things in the world. Alcohol and ice cream. Combination-> Mind blown.", name: "Nick M.", location: "Newark, NJ", dessert: d5)
 
 d6 = Dessert.create(name: "Red Wedding Velvet Ice Cream Sandwich", image:"https://s3.r29static.com//bin/entry/4d5/x,80/1771583/image.jpg", calories: 610, price: "$12")
