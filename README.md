@@ -9,7 +9,7 @@ Customers can:
 * View all desserts & see all reviews for each dessert
 * Add, update, and delete a review
 
-## Backend Repository
+## Frontend Repository
 [Dessert Bae Frontend](https://github.com/Bellex0/Dessert-Bae-Frontend)
 
 ## Ruby Version
