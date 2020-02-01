@@ -29,7 +29,7 @@ Review.create(content: "Amazing! But I gained 10 lbs eating this everyday.", nam
 d7 = Dessert.create(name: "Green 'Spill the Tea' Macarons", image:"https://data.thefeedfeed.com/recommended/post_5542267.jpeg", calories: 76, price: "$4")
 Review.create(content: "Love macarons, especially this unique green tea flavor.", name: "Carter Y.", location: "Boston, MA", dessert: d7)
 
-d8= Dessert.create(name: "Banana Puddin'", image:"https://www.virtualweberbullet.com/wp-content/uploads/2017/09/banana-pudding-recipes-3.jpg", calories: 150, price: "$14")
+d8= Dessert.create(name: "Banana Puddin'", image:"https://i.pinimg.com/474x/c4/de/d6/c4ded6bbbb1657fa1adb243277a508a8--banana-pudding-masons.jpg", calories: 150, price: "$14")
 Review.create(content: "Better than Magnolia's. Hands down.", name: "Keisha R.", location: "Queens, NY", dessert: d8)
 
 d9 = Dessert.create(name: "Taco Sundae Not Tuesday", image:"https://www.gannett-cdn.com/presto/2019/04/03/PPHX/79c8c151-7513-461a-a2ee-c1077fd0419b-2.jpg?width=680&height=510&fit=bounds&auto=webp", calories: 270, price: "$14")
